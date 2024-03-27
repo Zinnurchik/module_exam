@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-03-13T01:53:45.140067800Z</date>
+  <millis>1710294825140</millis>
+  <nanos>67800</nanos>
+  <sequence>0</sequence>
+  <level>WARNING</level>
+  <class>org.example.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Fine log message</message>
+</record>
+</log>
